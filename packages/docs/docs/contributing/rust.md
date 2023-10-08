@@ -35,7 +35,7 @@ These instructions currently are for macOS. Contributions for other platforms ar
 To build the Rust binaries for all supported platforms, you need to install their toolchains:
 
 ```sh
-node install-toolchains.mjs
+node install-toolchain.mjs
 ```
 
 You can then build all binaries with:
